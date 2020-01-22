@@ -1,5 +1,5 @@
 /*
- * 
+ * https://open.kattis.com/problems/bijele
 Mirko has found an old chessboard and a set of pieces in his attic. Unfortunately, the set contains only white pieces, and apparently an incorrect number of them. A set of pieces should contain:
 
 One king, One queen, Two rooks, Two bishops, Two knights, Eight pawns
